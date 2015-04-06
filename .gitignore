@@ -21,6 +21,8 @@ proguard/
 # intellij stuff
 .idea/
 Simpler.iml
+app/app.iml
+simpler/simpler.iml
 #credentials stuff
 credentials.properties
 #etc...
